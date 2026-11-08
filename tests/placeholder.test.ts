@@ -4,4 +4,7 @@ describe('HelloButton', () => {
   it('should pass', () => {
     expect('name').toBe('name');
   });
+  it('should pass', () => {
+    expect('name').toBe('name');
+  });
 });
